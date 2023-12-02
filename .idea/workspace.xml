@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added homework 01 (autotests)">
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_02/Application01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_02/Application02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_02/Application03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_02/Application04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_02/Application05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_02/Application06.java" afterDir="false" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added lesson 02">
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_03/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_03/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_04/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_04/Main02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +48,13 @@
     "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Application06">
-    <configuration name="Application03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_02.Application03" />
+  <component name="RunManager" selected="Application.seminars.seminar_01.task_04.Main02">
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_03.Main01" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_02.*" />
+          <option name="PATTERN" value="seminars.seminar_01.task_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_02.Application04" />
+    <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_03.Main02" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_02.*" />
+          <option name="PATTERN" value="seminars.seminar_01.task_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_02.Application05" />
+    <configuration name="seminars.seminar_01.task_02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_02.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_02.*" />
+          <option name="PATTERN" value="seminars.seminar_01.task_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Application06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_02.Application06" />
+    <configuration name="seminars.seminar_01.task_04.Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_04.Main01" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_02.*" />
+          <option name="PATTERN" value="seminars.seminar_01.task_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lessons.lesson_02.Application02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lessons.lesson_02.Application02" />
+    <configuration name="seminars.seminar_01.task_04.Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_04.Main02" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lessons.lesson_02.*" />
+          <option name="PATTERN" value="seminars.seminar_01.task_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application06" />
-        <item itemvalue="Application.Application05" />
-        <item itemvalue="Application.Application04" />
-        <item itemvalue="Application.Application03" />
-        <item itemvalue="Application.lessons.lesson_02.Application02" />
+        <item itemvalue="Application.seminars.seminar_01.task_04.Main02" />
+        <item itemvalue="Application.seminars.seminar_01.task_04.Main01" />
+        <item itemvalue="Application.Main02" />
+        <item itemvalue="Application.Main01" />
+        <item itemvalue="Application.seminars.seminar_01.task_02.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -157,13 +157,22 @@
       <option name="project" value="LOCAL" />
       <updated>1701516641959</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added lesson 02">
+      <option name="closed" value="true" />
+      <created>1701521466766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701521466766</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="added lesson 01" />
     <MESSAGE value="added homework 01 (autotests)" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework 01 (autotests)" />
+    <MESSAGE value="added lesson 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="added lesson 02" />
   </component>
 </project>
