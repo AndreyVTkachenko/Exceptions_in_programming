@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_01/Application01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_01/Application02.java" afterDir="false" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added lesson 01">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_01/task_01/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_01/task_02/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_01/task_03/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +25,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2YoNXS7bsterxaZ8whpdQW80iPo" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,10 +41,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/КР по блоку специализация/a_toy_shop",
     "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Application02">
+  <component name="RunManager" selected="Application.homeworks.homework_01.task_03.Printer">
     <configuration name="Application01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lessons.lesson_01.Application01" />
       <module name="Exceptions in programming" />
@@ -68,8 +72,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_01.task_01.Printer" />
+      <module name="Exceptions in programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.homework_01.task_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeworks.homework_01.task_02.Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_01.task_02.Printer" />
+      <module name="Exceptions in programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.homework_01.task_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeworks.homework_01.task_03.Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_01.task_03.Printer" />
+      <module name="Exceptions in programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworks.homework_01.task_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeworks.homework_01.task_03.Printer" />
+        <item itemvalue="Application.homeworks.homework_01.task_02.Printer" />
+        <item itemvalue="Application.Printer" />
         <item itemvalue="Application.Application02" />
         <item itemvalue="Application.Application01" />
       </list>
@@ -92,11 +138,20 @@
       <option name="project" value="LOCAL" />
       <updated>1701188135174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added lesson 01">
+      <option name="closed" value="true" />
+      <created>1701190605569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701190605569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="added lesson 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="added lesson 01" />
   </component>
 </project>
