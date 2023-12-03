@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added lesson 02">
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_03/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_03/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_04/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_01/task_04/Main02.java" afterDir="false" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added seminar 01">
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_02/task_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_02/task_01/file.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,16 +35,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/КР по блоку специализация/a_toy_shop",
-    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.seminars.seminar_01.task_04.Main02">
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminars.seminar_02.task_01.Main" />
+      <module name="Exceptions in programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminars.seminar_02.task_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_03.Main01" />
       <module name="Exceptions in programming" />
@@ -68,19 +77,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="seminars.seminar_01.task_03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="seminars.seminar_01.task_02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_02.Main" />
-      <module name="Exceptions in programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seminars.seminar_01.task_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.seminars.seminar_01.task_04.Main02" />
         <item itemvalue="Application.seminars.seminar_01.task_04.Main01" />
         <item itemvalue="Application.Main02" />
         <item itemvalue="Application.Main01" />
-        <item itemvalue="Application.seminars.seminar_01.task_02.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701521466766</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added seminar 01">
+      <option name="closed" value="true" />
+      <created>1701530618067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701530618067</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,6 +177,7 @@
     <MESSAGE value="added lesson 01" />
     <MESSAGE value="added homework 01 (autotests)" />
     <MESSAGE value="added lesson 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="added lesson 02" />
+    <MESSAGE value="added seminar 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 01" />
   </component>
 </project>
