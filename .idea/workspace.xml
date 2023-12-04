@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added seminar 01">
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_02/task_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seminars/seminar_02/task_01/file.txt" afterDir="false" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added seminar 02">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_02/task_01/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_02/task_02/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_02/task_03/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_02/task_04/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +46,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.homeworks.homework_02.task_04.Printer">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seminars.seminar_02.task_01.Main" />
       <module name="Exceptions in programming" />
@@ -58,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_03.Main01" />
+    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_02.task_01.Printer" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.seminar_01.task_03.*" />
+          <option name="PATTERN" value="homeworks.homework_02.task_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_03.Main02" />
+    <configuration name="homeworks.homework_02.task_02.Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_02.task_02.Printer" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.seminar_01.task_03.*" />
+          <option name="PATTERN" value="homeworks.homework_02.task_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.seminar_01.task_04.Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_04.Main01" />
+    <configuration name="homeworks.homework_02.task_03.Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_02.task_03.Printer" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.seminar_01.task_04.*" />
+          <option name="PATTERN" value="homeworks.homework_02.task_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="seminars.seminar_01.task_04.Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.seminar_01.task_04.Main02" />
+    <configuration name="homeworks.homework_02.task_04.Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworks.homework_02.task_04.Printer" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.seminar_01.task_04.*" />
+          <option name="PATTERN" value="homeworks.homework_02.task_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homeworks.homework_02.task_04.Printer" />
+        <item itemvalue="Application.homeworks.homework_02.task_03.Printer" />
+        <item itemvalue="Application.homeworks.homework_02.task_02.Printer" />
+        <item itemvalue="Application.Printer" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.seminars.seminar_01.task_04.Main02" />
-        <item itemvalue="Application.seminars.seminar_01.task_04.Main01" />
-        <item itemvalue="Application.Main02" />
-        <item itemvalue="Application.Main01" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701530618067</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added seminar 02">
+      <option name="closed" value="true" />
+      <created>1701596119755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701596119755</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +188,7 @@
     <MESSAGE value="added homework 01 (autotests)" />
     <MESSAGE value="added lesson 02" />
     <MESSAGE value="added seminar 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 01" />
+    <MESSAGE value="added seminar 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 02" />
   </component>
 </project>
