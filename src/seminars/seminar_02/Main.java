@@ -1,4 +1,4 @@
-package seminars.seminar_02.task_01;
+package seminars.seminar_02;
 
 /*
 Запишите в файл следующие строки:
@@ -22,7 +22,7 @@ public class Main {
 
     public static void main(String[] args) {
         String patch = "C:\\Users\\gepat\\Documents\\Обучение в GeekBrains\\Исключения в программировании и их " +
-                "обработка\\Exceptions in programming\\src\\seminars\\seminar_02\\task_01\\file.txt";
+                "обработка\\Exceptions in programming\\src\\seminars\\seminar_02\\file.txt";
         List<String[]> arrayNames = readFile(patch);
         upArray(arrayNames);
         writeFile(patch, arrayNames);

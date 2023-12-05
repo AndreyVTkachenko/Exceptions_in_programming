@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added seminar 02">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_02/task_01/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_02/task_02/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_02/task_03/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_02/task_04/Printer.java" afterDir="false" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added homework 02">
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_03/Application01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_03/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson_03/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_02/task_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/seminar_02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_02/task_01/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/seminars/seminar_02/file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,22 +38,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Введение в ООП/Object_oriented_programming&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/lessons/lesson_03",
+    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.homeworks.homework_02.task_04.Printer">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seminars.seminar_02.task_01.Main" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Исключения в программировании и их обработка\Exceptions in programming\src\lessons\lesson_03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Исключения в программировании и их обработка\Exceptions in programming\src\seminars\seminar_02" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lessons.lesson_03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application01">
+    <configuration name="Application01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson_03.Application01" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seminars.seminar_02.task_01.*" />
+          <option name="PATTERN" value="lessons.lesson_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application01" />
         <item itemvalue="Application.homeworks.homework_02.task_04.Printer" />
         <item itemvalue="Application.homeworks.homework_02.task_03.Printer" />
         <item itemvalue="Application.homeworks.homework_02.task_02.Printer" />
         <item itemvalue="Application.Printer" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -179,16 +192,26 @@
       <option name="project" value="LOCAL" />
       <updated>1701596119755</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added homework 02">
+      <option name="closed" value="true" />
+      <created>1701703714233</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701703714233</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="added lesson 01" />
     <MESSAGE value="added homework 01 (autotests)" />
     <MESSAGE value="added lesson 02" />
     <MESSAGE value="added seminar 01" />
     <MESSAGE value="added seminar 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 02" />
+    <MESSAGE value="added homework 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework 02" />
   </component>
 </project>
