@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added homework 03">
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/be sure to read me.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/falling_version/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/CLAY.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/FREUD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/БЕНДЕР-ЗАДУНАЙСКИЙ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/ПЕТРОВ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/ПЕТРОВА.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/иванов.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/орлова.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/петров.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/task description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/working_version/DataEntryCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_03/working_version/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added homework 03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702202819669</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added homework 03">
+      <option name="closed" value="true" />
+      <created>1702568846664</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702568846664</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,6 +260,7 @@
     <MESSAGE value="added lesson 02 (incomplete)" />
     <MESSAGE value="added seminar 02" />
     <MESSAGE value="added seminar 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 03" />
+    <MESSAGE value="added homework 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="added homework 03" />
   </component>
 </project>
