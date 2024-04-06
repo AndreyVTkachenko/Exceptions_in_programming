@@ -4,92 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added homework 03">
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_02_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_06/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_01/task_01/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_01/task_02/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_01/task_03/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_02/task_01/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_02/task_02/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_02/task_03/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_02/task_04/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/be sure to read me.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/falling_version/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/CLAY.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/FREUD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/БЕНДЕР-ЗАДУНАЙСКИЙ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/ПЕТРОВ.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/ПЕТРОВА.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/иванов.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/орлова.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/петров.rtf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/task description.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/working_version/DataEntryCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/working_version/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_03/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_03/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_04/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_04/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_02/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_02/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_03/DivisionByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_03/NotFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_03/NullPointerArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_04/MyArrayDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_04/MyArraySizeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_04/SumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/task_01/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/task_02/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/task_03/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_02/task_01/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_02/task_02/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_02/task_03/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_02/task_04/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/be sure to read me.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/falling_version/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/CLAY.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/FREUD.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/БЕНДЕР-ЗАДУНАЙСКИЙ.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/ПЕТРОВ.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/ПЕТРОВА.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/иванов.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/орлова.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/петров.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/task description.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/working_version/DataEntryCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/working_version/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_03/Main01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_03/Main02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_04/Main01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_04/Main02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_02/file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_02/Counter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_03/DivisionByZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_03/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_03/NotFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_03/NullPointerArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_04/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_04/MyArrayDataException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_04/MyArraySizeException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_04/SumArray.java" beforeDir="false" />
-    </list>
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="divided seminar classes by teachers and added seminar 01 Makartsev" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -341,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702568964568</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="divided seminar classes by teachers and added seminar 01 Makartsev">
+      <option name="closed" value="true" />
+      <created>1712429750837</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712429750837</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -356,6 +279,7 @@
     <MESSAGE value="added seminar 02" />
     <MESSAGE value="added seminar 03" />
     <MESSAGE value="added homework 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="added homework 03" />
+    <MESSAGE value="divided seminar classes by teachers and added seminar 01 Makartsev" />
+    <option name="LAST_COMMIT_MESSAGE" value="divided seminar classes by teachers and added seminar 01 Makartsev" />
   </component>
 </project>
