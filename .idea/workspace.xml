@@ -4,7 +4,92 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added homework 03" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added homework 03">
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_02_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_06/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_01/task_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_01/task_01/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_01/task_02/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_01/task_03/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_02/task_01/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_02/task_02/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_02/task_03/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_02/task_04/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/be sure to read me.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/falling_version/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/CLAY.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/FREUD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/БЕНДЕР-ЗАДУНАЙСКИЙ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/ПЕТРОВ.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/ПЕТРОВА.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/иванов.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/орлова.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/list_of_people/петров.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/task description.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/working_version/DataEntryCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/homeworks/homework_03/working_version/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_03/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_03/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_04/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_01/task_04/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_02/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_02/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_03/DivisionByZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_03/NotFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_03/NullPointerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_04/MyArrayDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_04/MyArraySizeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Moiseev/seminars/seminar_03/task_04/SumArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/task_01/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/task_02/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/task_03/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_02/task_01/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_02/task_02/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_02/task_03/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_02/task_04/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/be sure to read me.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/falling_version/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/CLAY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/FREUD.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/БЕНДЕР-ЗАДУНАЙСКИЙ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/ПЕТРОВ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/ПЕТРОВА.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/иванов.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/орлова.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/list_of_people/петров.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/task description.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/working_version/DataEntryCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_03/working_version/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_03/Main01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_03/Main02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_04/Main01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_01/task_04/Main02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_02/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_02/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_03/DivisionByZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_03/NotFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_03/NullPointerArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_04/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_04/MyArrayDataException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_04/MyArraySizeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/seminars/seminar_03/task_04/SumArray.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +108,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AndreyVTkachenko&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AndreyVTkachenko/Exceptions_in_programming.git&quot;,
+    &quot;accountId&quot;: &quot;1e343f8a-4b66-4030-aba2-070a9e1ec06a&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -37,32 +134,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.DXZDTV.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataValid.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Homework.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainIf.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NameValidation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserDataApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dkjrhxfk.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gfgdhdhj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.homeworks.homework_03.falling_version.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seminars.seminar_03.task_02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seminars.seminar_03.task_03.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seminars.seminar_03.task_04.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/lessons/lesson_03&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.DXZDTV.executor": "Run",
+    "Application.DataValid.executor": "Run",
+    "Application.Homework.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.MainEx.executor": "Run",
+    "Application.MainIf.executor": "Run",
+    "Application.Makartsev.seminars.seminar_01.task_01.Main.executor": "Run",
+    "Application.Makartsev.seminars.seminar_01.task_04.Main.executor": "Run",
+    "Application.Makartsev.seminars.seminar_01.task_06.Main.executor": "Run",
+    "Application.NameValidation.executor": "Run",
+    "Application.UserDataApp.executor": "Run",
+    "Application.dkjrhxfk.executor": "Run",
+    "Application.gfgdhdhj.executor": "Run",
+    "Application.homeworks.homework_03.falling_version.Main.executor": "Run",
+    "Application.seminars.seminar_03.task_02.Main.executor": "Run",
+    "Application.seminars.seminar_03.task_03.Main.executor": "Run",
+    "Application.seminars.seminar_03.task_04.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming",
+    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Исключения в программировании и их обработка\Exceptions in programming\src\lessons\lesson_03" />
@@ -74,26 +174,13 @@
       <recent name="lessons.lesson_03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homeworks.homework_03.falling_version.Main">
-    <configuration name="DXZDTVhdhjd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_03.DXZDTVhdhjd" />
-      <module name="Exceptions in programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homeworks.homework_03.working_version.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Makartsev.seminars.seminar_01.task_06.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_03.working_version.Main" />
+      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_02_03.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_03.working_version.*" />
+          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_02_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameValidation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_03.NameValidation" />
+    <configuration name="Makartsev.seminars.seminar_01.task_01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_01.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_03.*" />
+          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dkjrhxfk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_03.dkjrhxfk" />
+    <configuration name="Makartsev.seminars.seminar_01.task_04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_04.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_03.working_version.*" />
+          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeworks.homework_03.falling_version.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homeworks.homework_03.falling_version.Main" />
+    <configuration name="Makartsev.seminars.seminar_01.task_06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_06.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homeworks.homework_03.falling_version.*" />
+          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,20 +229,12 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homeworks.homework_03.falling_version.Main" />
+        <item itemvalue="Application.Makartsev.seminars.seminar_01.task_06.Main" />
+        <item itemvalue="Application.Makartsev.seminars.seminar_01.task_04.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.NameValidation" />
-        <item itemvalue="Application.DXZDTVhdhjd" />
-        <item itemvalue="Application.dkjrhxfk" />
+        <item itemvalue="Application.Makartsev.seminars.seminar_01.task_01.Main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-20.0.2-azul-20.0.2-8336523bb0d9-ce1e98ff" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -246,7 +325,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702568846664</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added homework 03">
+      <option name="closed" value="true" />
+      <created>1702568920805</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702568920805</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added homework 03">
+      <option name="closed" value="true" />
+      <created>1702568964568</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702568964568</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
