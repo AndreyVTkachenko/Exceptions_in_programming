@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="divided seminar classes by teachers and added seminar 01 Makartsev" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added an additional task to homework 01">
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_02/task_01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_02/task_01/exercise.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_02/task_02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_02/task_02/exercise.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_02/task_03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_02/task_04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_02/task_04/exercise.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,9 +68,17 @@
     "Application.Main2.executor": "Run",
     "Application.MainEx.executor": "Run",
     "Application.MainIf.executor": "Run",
+    "Application.Makartsev.extra_homework_01.task_08.Main.executor": "Run",
+    "Application.Makartsev.homework.task_08.Main.executor": "Run",
+    "Application.Makartsev.homework_01_additional_tasks.task_07.Main.executor": "Run",
+    "Application.Makartsev.homeworks.task_07.Main.executor": "Run",
+    "Application.Makartsev.homeworks.task_08.Main.executor": "Run",
     "Application.Makartsev.seminars.seminar_01.task_01.Main.executor": "Run",
     "Application.Makartsev.seminars.seminar_01.task_04.Main.executor": "Run",
     "Application.Makartsev.seminars.seminar_01.task_06.Main.executor": "Run",
+    "Application.Makartsev.seminars.seminar_02.task_01.Main.executor": "Run",
+    "Application.Makartsev.seminars.seminar_02.task_03.Main.executor": "Run",
+    "Application.Makartsev.seminars.seminar_02.task_04.Main.executor": "Run",
     "Application.NameValidation.executor": "Run",
     "Application.UserDataApp.executor": "Run",
     "Application.dkjrhxfk.executor": "Run",
@@ -89,13 +106,13 @@
       <recent name="lessons.lesson_03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Makartsev.seminars.seminar_01.task_06.Main">
+  <component name="RunManager" selected="Application.Makartsev.seminars.seminar_02.task_03.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_02_03.Main" />
+      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_02.task_02.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_02_03.*" />
+          <option name="PATTERN" value="Makartsev.seminars.seminar_02.task_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Makartsev.seminars.seminar_01.task_01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_01.Main" />
+    <configuration name="Makartsev.homework_01_additional_tasks.task_07.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Makartsev.homework_01_additional_tasks.task_07.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_01.*" />
+          <option name="PATTERN" value="Makartsev.homework_01_additional_tasks.task_07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Makartsev.seminars.seminar_01.task_04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_04.Main" />
+    <configuration name="Makartsev.seminars.seminar_02.task_01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_02.task_01.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_04.*" />
+          <option name="PATTERN" value="Makartsev.seminars.seminar_02.task_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +146,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Makartsev.seminars.seminar_01.task_06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_06.Main" />
+    <configuration name="Makartsev.seminars.seminar_02.task_03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_02.task_03.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_06.*" />
+          <option name="PATTERN" value="Makartsev.seminars.seminar_02.task_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makartsev.seminars.seminar_02.task_04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_02.task_04.Main" />
+      <module name="Exceptions in programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Makartsev.seminars.seminar_02.task_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,10 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Makartsev.seminars.seminar_01.task_06.Main" />
-        <item itemvalue="Application.Makartsev.seminars.seminar_01.task_04.Main" />
+        <item itemvalue="Application.Makartsev.seminars.seminar_02.task_03.Main" />
+        <item itemvalue="Application.Makartsev.seminars.seminar_02.task_04.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Makartsev.seminars.seminar_01.task_01.Main" />
+        <item itemvalue="Application.Makartsev.seminars.seminar_02.task_01.Main" />
+        <item itemvalue="Application.Makartsev.homework_01_additional_tasks.task_07.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +295,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712429750837</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="divided seminar classes by teachers and added seminar 01 Makartsev">
+      <option name="closed" value="true" />
+      <created>1712429820202</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1712429820202</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added an additional task to homework 01">
+      <option name="closed" value="true" />
+      <created>1712470941286</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712470941286</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,6 +327,7 @@
     <MESSAGE value="added seminar 03" />
     <MESSAGE value="added homework 03" />
     <MESSAGE value="divided seminar classes by teachers and added seminar 01 Makartsev" />
-    <option name="LAST_COMMIT_MESSAGE" value="divided seminar classes by teachers and added seminar 01 Makartsev" />
+    <MESSAGE value="added an additional task to homework 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="added an additional task to homework 01" />
   </component>
 </project>
