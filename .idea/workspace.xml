@@ -49,35 +49,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.DXZDTV.executor": "Run",
-    "Application.DataValid.executor": "Run",
-    "Application.Homework.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main2.executor": "Run",
-    "Application.MainEx.executor": "Run",
-    "Application.MainIf.executor": "Run",
-    "Application.Makartsev.seminars.seminar_01.task_01.Main.executor": "Run",
-    "Application.Makartsev.seminars.seminar_01.task_04.Main.executor": "Run",
-    "Application.Makartsev.seminars.seminar_01.task_06.Main.executor": "Run",
-    "Application.NameValidation.executor": "Run",
-    "Application.UserDataApp.executor": "Run",
-    "Application.dkjrhxfk.executor": "Run",
-    "Application.gfgdhdhj.executor": "Run",
-    "Application.homeworks.homework_03.falling_version.Main.executor": "Run",
-    "Application.seminars.seminar_03.task_02.Main.executor": "Run",
-    "Application.seminars.seminar_03.task_03.Main.executor": "Run",
-    "Application.seminars.seminar_03.task_04.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming",
-    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.DXZDTV.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataValid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_01.task_01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_01.task_04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_01.task_06.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NameValidation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserDataApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dkjrhxfk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gfgdhdhj.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeworks.homework_03.falling_version.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminars.seminar_03.task_02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminars.seminar_03.task_03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminars.seminar_03.task_04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Исключения в программировании и их обработка\Exceptions in programming\src\lessons\lesson_03" />
@@ -266,6 +266,17 @@
     </task>
     <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
