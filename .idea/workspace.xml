@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added seminar 03 Makartsev">
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/homework_01_additional_tasks/task_08_corrected/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added a new solution to task 8 of the additional task">
+      <change beforePath="$PROJECT_DIR$/src/Makartsev/homework_01_additional_tasks/task_08_corrected/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Makartsev/homework_01_additional_tasks/task_08_corrected/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -310,7 +309,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712847680416</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added a new solution to task 8 of the additional task">
+      <option name="closed" value="true" />
+      <created>1713027658034</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027658034</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added a new solution to task 8 of the additional task">
+      <option name="closed" value="true" />
+      <created>1713027694973</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027694973</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,6 +355,7 @@
     <MESSAGE value="deleted seminar 02 Makartsev" />
     <MESSAGE value="added seminar 02 Makartsev" />
     <MESSAGE value="added seminar 03 Makartsev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 03 Makartsev" />
+    <MESSAGE value="added a new solution to task 8 of the additional task" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a new solution to task 8 of the additional task" />
   </component>
 </project>

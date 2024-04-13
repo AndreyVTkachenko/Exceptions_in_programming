@@ -29,6 +29,13 @@ public class Main {
                 {32, 33, 34}
         };
 
+        int[][] array4 = {
+                {35, 36, 37},
+                {38, 39, 40, 41},
+                {42, 43, 44},
+                {45, 46, 47}
+        };
+
         checkArrays(array1);
         System.out.println("===================================================================");
         System.out.println();
@@ -36,6 +43,9 @@ public class Main {
         System.out.println("===================================================================");
         System.out.println();
         checkArrays(array3);
+        System.out.println("===================================================================");
+        System.out.println();
+        checkArrays(array4);
     }
 
     public static void checkArrays(int[][] array) {
