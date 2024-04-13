@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added seminar 02 Makartsev">
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_03/task_00/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_03/task_00/exercise.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_03/task_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_03/task_02/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_03/task_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Makartsev/seminars/seminar_03/task_03/Main.java" afterDir="false" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added seminar 03 Makartsev">
+      <change afterPath="$PROJECT_DIR$/src/Makartsev/homework_01_additional_tasks/task_08_corrected/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +68,7 @@
     "Application.Makartsev.seminars.seminar_01.task_06.Main.executor": "Run",
     "Application.Makartsev.seminars.seminar_03.task_00.Main.executor": "Run",
     "Application.Makartsev.seminars.seminar_03.task_02.Main.executor": "Run",
+    "Application.Makartsev.seminars.seminar_03.task_03.Main.executor": "Run",
     "Application.NameValidation.executor": "Run",
     "Application.UserDataApp.executor": "Run",
     "Application.dkjrhxfk.executor": "Run",
@@ -85,7 +81,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Makartsev/seminars/seminar_03/task_01",
+    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming",
     "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java"
   }
 }]]></component>
@@ -101,13 +97,13 @@
       <recent name="lessons.lesson_03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Makartsev.seminars.seminar_03.task_03.Main">
-    <configuration name="Makartsev.seminars.seminar_01.task_04.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Makartsev.seminars.seminar_01.task_04.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Makartsev.homework_01_additional_tasks.task_08_corrected.Main" />
       <module name="Exceptions in programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Makartsev.seminars.seminar_01.task_04.*" />
+          <option name="PATTERN" value="Makartsev.homework_01_additional_tasks.task_08_corrected.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Makartsev.seminars.seminar_03.task_03.Main" />
         <item itemvalue="Application.Makartsev.seminars.seminar_03.task_02.Main" />
         <item itemvalue="Application.Makartsev.seminars.seminar_03.task_00.Main" />
         <item itemvalue="Application.Makartsev.seminars.seminar_01.task_06.Main" />
-        <item itemvalue="Application.Makartsev.seminars.seminar_01.task_04.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712597264786</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added seminar 03 Makartsev">
+      <option name="closed" value="true" />
+      <created>1712847680416</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1712847680416</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -335,6 +339,7 @@
     <MESSAGE value="divided seminar classes by teachers and added seminar 01 Makartsev" />
     <MESSAGE value="deleted seminar 02 Makartsev" />
     <MESSAGE value="added seminar 02 Makartsev" />
-    <option name="LAST_COMMIT_MESSAGE" value="added seminar 02 Makartsev" />
+    <MESSAGE value="added seminar 03 Makartsev" />
+    <option name="LAST_COMMIT_MESSAGE" value="added seminar 03 Makartsev" />
   </component>
 </project>
