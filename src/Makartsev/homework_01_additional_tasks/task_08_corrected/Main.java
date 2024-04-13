@@ -51,7 +51,8 @@ public class Main {
         int minLength = Math.min(array.length, reversArray.length);
         for (int i = 0; i < minLength; i++) {
             if (array[i].length != reversArray[i].length) {
-                System.out.println("На элементе главной диагонали с индексом [" + i + ";" + i + "] исходного двумерного массива количество строк и столбцов отличается");
+                System.out.println("На элементе главной диагонали с индексом [" + i + ";" + i + "] исходного двумерного" +
+                        " массива количество строк и столбцов отличается");
             }
         }
     }
