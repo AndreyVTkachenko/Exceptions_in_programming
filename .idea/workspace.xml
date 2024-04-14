@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added a new solution to task 8 of the additional task">
-      <change beforePath="$PROJECT_DIR$/src/Makartsev/homework_01_additional_tasks/task_08_corrected/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Makartsev/homework_01_additional_tasks/task_08_corrected/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added a new solution to task 8 of the additional task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -325,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713027694973</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added a new solution to task 8 of the additional task">
+      <option name="closed" value="true" />
+      <created>1713028273767</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713028273767</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
