@@ -61,6 +61,7 @@ public class Main {
         int minLength = Math.min(array.length, reversArray.length);
         for (int i = 0; i < minLength; i++) {
             if (array[i].length != reversArray[i].length) {
+                // Вспомним StringBuilder
                 StringBuilder sb = new StringBuilder();
                 sb.append("На элементе главной диагонали с индексом [")
                         .append(i)

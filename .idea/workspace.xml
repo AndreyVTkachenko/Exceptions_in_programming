@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added a new solution to task 8 of the additional task" />
+    <list default="true" id="437b90db-fdfd-43f3-94e3-d2dd60480e93" name="Changes" comment="added minor changes to task 8 of the additional task" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,38 +50,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.DXZDTV.executor": "Run",
-    "Application.DataValid.executor": "Run",
-    "Application.Homework.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main2.executor": "Run",
-    "Application.MainEx.executor": "Run",
-    "Application.MainIf.executor": "Run",
-    "Application.Makartsev.seminars.seminar_01.task_01.Main.executor": "Run",
-    "Application.Makartsev.seminars.seminar_01.task_04.Main.executor": "Run",
-    "Application.Makartsev.seminars.seminar_01.task_06.Main.executor": "Run",
-    "Application.Makartsev.seminars.seminar_03.task_00.Main.executor": "Run",
-    "Application.Makartsev.seminars.seminar_03.task_02.Main.executor": "Run",
-    "Application.Makartsev.seminars.seminar_03.task_03.Main.executor": "Run",
-    "Application.NameValidation.executor": "Run",
-    "Application.UserDataApp.executor": "Run",
-    "Application.dkjrhxfk.executor": "Run",
-    "Application.gfgdhdhj.executor": "Run",
-    "Application.homeworks.homework_03.falling_version.Main.executor": "Run",
-    "Application.seminars.seminar_03.task_02.Main.executor": "Run",
-    "Application.seminars.seminar_03.task_03.Main.executor": "Run",
-    "Application.seminars.seminar_03.task_04.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming",
-    "onboarding.tips.debug.path": "C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.DXZDTV.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataValid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Homework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainIf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_01.task_01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_01.task_04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_01.task_06.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_03.task_00.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_03.task_02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Makartsev.seminars.seminar_03.task_03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NameValidation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserDataApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dkjrhxfk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gfgdhdhj.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeworks.homework_03.falling_version.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminars.seminar_03.task_02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminars.seminar_03.task_03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.seminars.seminar_03.task_04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gepat/Documents/Обучение в GeekBrains/Исключения в программировании и их обработка/Exceptions in programming/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gepat\Documents\Обучение в GeekBrains\Исключения в программировании и их обработка\Exceptions in programming\src\Makartsev\seminars\seminar_03\task_01" />
@@ -331,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713028273767</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="added minor changes to task 8 of the additional task">
+      <option name="closed" value="true" />
+      <created>1713096613474</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1713096613474</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,6 +370,7 @@
     <MESSAGE value="added seminar 02 Makartsev" />
     <MESSAGE value="added seminar 03 Makartsev" />
     <MESSAGE value="added a new solution to task 8 of the additional task" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a new solution to task 8 of the additional task" />
+    <MESSAGE value="added minor changes to task 8 of the additional task" />
+    <option name="LAST_COMMIT_MESSAGE" value="added minor changes to task 8 of the additional task" />
   </component>
 </project>
